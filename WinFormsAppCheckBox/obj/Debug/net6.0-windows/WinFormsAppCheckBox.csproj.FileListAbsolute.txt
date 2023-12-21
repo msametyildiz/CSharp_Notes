@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\bin\Debug\net6.0-windows\WinFormsAppCheckBox.exe
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\bin\Debug\net6.0-windows\WinFormsAppCheckBox.deps.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\bin\Debug\net6.0-windows\WinFormsAppCheckBox.runtimeconfig.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\bin\Debug\net6.0-windows\WinFormsAppCheckBox.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\bin\Debug\net6.0-windows\WinFormsAppCheckBox.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\obj\Debug\net6.0-windows\WinFormsAppCheckBox.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\obj\Debug\net6.0-windows\WinFormsAppCheckBox.Form1.resources
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\obj\Debug\net6.0-windows\WinFormsAppCheckBox.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\obj\Debug\net6.0-windows\WinFormsAppCheckBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\obj\Debug\net6.0-windows\WinFormsAppCheckBox.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\obj\Debug\net6.0-windows\WinFormsAppCheckBox.AssemblyInfo.cs
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\obj\Debug\net6.0-windows\WinFormsAppCheckBox.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\obj\Debug\net6.0-windows\WinFormsAppCheckBox.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\obj\Debug\net6.0-windows\refint\WinFormsAppCheckBox.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\obj\Debug\net6.0-windows\WinFormsAppCheckBox.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\obj\Debug\net6.0-windows\WinFormsAppCheckBox.genruntimeconfig.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppCheckBox\obj\Debug\net6.0-windows\ref\WinFormsAppCheckBox.dll

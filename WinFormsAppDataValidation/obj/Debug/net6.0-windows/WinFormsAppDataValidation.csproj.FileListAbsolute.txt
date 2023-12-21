@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\bin\Debug\net6.0-windows\WinFormsAppDataValidation.exe
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\bin\Debug\net6.0-windows\WinFormsAppDataValidation.deps.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\bin\Debug\net6.0-windows\WinFormsAppDataValidation.runtimeconfig.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\bin\Debug\net6.0-windows\WinFormsAppDataValidation.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\bin\Debug\net6.0-windows\WinFormsAppDataValidation.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\obj\Debug\net6.0-windows\WinFormsAppDataValidation.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\obj\Debug\net6.0-windows\WinFormsAppDataValidation.Form1.resources
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\obj\Debug\net6.0-windows\WinFormsAppDataValidation.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\obj\Debug\net6.0-windows\WinFormsAppDataValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\obj\Debug\net6.0-windows\WinFormsAppDataValidation.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\obj\Debug\net6.0-windows\WinFormsAppDataValidation.AssemblyInfo.cs
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\obj\Debug\net6.0-windows\WinFormsAppDataValidation.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\obj\Debug\net6.0-windows\WinFormsAppDataValidation.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\obj\Debug\net6.0-windows\refint\WinFormsAppDataValidation.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\obj\Debug\net6.0-windows\WinFormsAppDataValidation.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\obj\Debug\net6.0-windows\WinFormsAppDataValidation.genruntimeconfig.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppDataValidation\obj\Debug\net6.0-windows\ref\WinFormsAppDataValidation.dll

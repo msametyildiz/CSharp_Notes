@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\bin\Debug\net6.0-windows\WinFormsAppNumericUPDown.exe
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\bin\Debug\net6.0-windows\WinFormsAppNumericUPDown.deps.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\bin\Debug\net6.0-windows\WinFormsAppNumericUPDown.runtimeconfig.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\bin\Debug\net6.0-windows\WinFormsAppNumericUPDown.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\bin\Debug\net6.0-windows\WinFormsAppNumericUPDown.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\obj\Debug\net6.0-windows\WinFormsAppNumericUPDown.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\obj\Debug\net6.0-windows\WinFormsAppNumericUPDown.Form1.resources
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\obj\Debug\net6.0-windows\WinFormsAppNumericUPDown.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\obj\Debug\net6.0-windows\WinFormsAppNumericUPDown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\obj\Debug\net6.0-windows\WinFormsAppNumericUPDown.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\obj\Debug\net6.0-windows\WinFormsAppNumericUPDown.AssemblyInfo.cs
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\obj\Debug\net6.0-windows\WinFormsAppNumericUPDown.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\obj\Debug\net6.0-windows\WinFormsAppNumericUPDown.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\obj\Debug\net6.0-windows\refint\WinFormsAppNumericUPDown.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\obj\Debug\net6.0-windows\WinFormsAppNumericUPDown.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\obj\Debug\net6.0-windows\WinFormsAppNumericUPDown.genruntimeconfig.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppNumericUPDown\obj\Debug\net6.0-windows\ref\WinFormsAppNumericUPDown.dll
