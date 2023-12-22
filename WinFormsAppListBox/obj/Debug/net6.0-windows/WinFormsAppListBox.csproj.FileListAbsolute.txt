@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\bin\Debug\net6.0-windows\WinFormsAppListBox.exe
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\bin\Debug\net6.0-windows\WinFormsAppListBox.deps.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\bin\Debug\net6.0-windows\WinFormsAppListBox.runtimeconfig.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\bin\Debug\net6.0-windows\WinFormsAppListBox.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\bin\Debug\net6.0-windows\WinFormsAppListBox.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\obj\Debug\net6.0-windows\WinFormsAppListBox.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\obj\Debug\net6.0-windows\WinFormsAppListBox.Form1.resources
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\obj\Debug\net6.0-windows\WinFormsAppListBox.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\obj\Debug\net6.0-windows\WinFormsAppListBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\obj\Debug\net6.0-windows\WinFormsAppListBox.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\obj\Debug\net6.0-windows\WinFormsAppListBox.AssemblyInfo.cs
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\obj\Debug\net6.0-windows\WinFormsAppListBox.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\obj\Debug\net6.0-windows\WinFormsAppListBox.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\obj\Debug\net6.0-windows\refint\WinFormsAppListBox.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\obj\Debug\net6.0-windows\WinFormsAppListBox.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\obj\Debug\net6.0-windows\WinFormsAppListBox.genruntimeconfig.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppListBox\obj\Debug\net6.0-windows\ref\WinFormsAppListBox.dll

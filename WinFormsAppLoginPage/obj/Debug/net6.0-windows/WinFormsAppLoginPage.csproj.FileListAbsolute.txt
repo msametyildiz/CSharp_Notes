@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\bin\Debug\net6.0-windows\WinFormsAppLoginPage.exe
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\bin\Debug\net6.0-windows\WinFormsAppLoginPage.deps.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\bin\Debug\net6.0-windows\WinFormsAppLoginPage.runtimeconfig.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\bin\Debug\net6.0-windows\WinFormsAppLoginPage.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\bin\Debug\net6.0-windows\WinFormsAppLoginPage.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\obj\Debug\net6.0-windows\WinFormsAppLoginPage.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\obj\Debug\net6.0-windows\WinFormsAppLoginPage.Form1.resources
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\obj\Debug\net6.0-windows\WinFormsAppLoginPage.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\obj\Debug\net6.0-windows\WinFormsAppLoginPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\obj\Debug\net6.0-windows\WinFormsAppLoginPage.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\obj\Debug\net6.0-windows\WinFormsAppLoginPage.AssemblyInfo.cs
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\obj\Debug\net6.0-windows\WinFormsAppLoginPage.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\obj\Debug\net6.0-windows\WinFormsAppLoginPage.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\obj\Debug\net6.0-windows\refint\WinFormsAppLoginPage.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\obj\Debug\net6.0-windows\WinFormsAppLoginPage.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\obj\Debug\net6.0-windows\WinFormsAppLoginPage.genruntimeconfig.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLoginPage\obj\Debug\net6.0-windows\ref\WinFormsAppLoginPage.dll

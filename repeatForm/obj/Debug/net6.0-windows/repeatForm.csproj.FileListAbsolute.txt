@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\bin\Debug\net6.0-windows\repeatForm.exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\bin\Debug\net6.0-windows\repeatForm.deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\bin\Debug\net6.0-windows\repeatForm.runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\bin\Debug\net6.0-windows\repeatForm.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\bin\Debug\net6.0-windows\repeatForm.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\repeatForm.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\repeatForm.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\repeatForm.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\repeatForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\repeatForm.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\repeatForm.AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\repeatForm.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\repeatForm.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\refint\repeatForm.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\repeatForm.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\repeatForm.genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\ref\repeatForm.dll

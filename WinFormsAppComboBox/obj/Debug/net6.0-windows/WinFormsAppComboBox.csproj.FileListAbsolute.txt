@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\bin\Debug\net6.0-windows\WinFormsAppComboBox.exe
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\bin\Debug\net6.0-windows\WinFormsAppComboBox.deps.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\bin\Debug\net6.0-windows\WinFormsAppComboBox.runtimeconfig.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\bin\Debug\net6.0-windows\WinFormsAppComboBox.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\bin\Debug\net6.0-windows\WinFormsAppComboBox.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\obj\Debug\net6.0-windows\WinFormsAppComboBox.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\obj\Debug\net6.0-windows\WinFormsAppComboBox.Form1.resources
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\obj\Debug\net6.0-windows\WinFormsAppComboBox.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\obj\Debug\net6.0-windows\WinFormsAppComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\obj\Debug\net6.0-windows\WinFormsAppComboBox.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\obj\Debug\net6.0-windows\WinFormsAppComboBox.AssemblyInfo.cs
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\obj\Debug\net6.0-windows\WinFormsAppComboBox.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\obj\Debug\net6.0-windows\WinFormsAppComboBox.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\obj\Debug\net6.0-windows\refint\WinFormsAppComboBox.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\obj\Debug\net6.0-windows\WinFormsAppComboBox.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\obj\Debug\net6.0-windows\WinFormsAppComboBox.genruntimeconfig.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppComboBox\obj\Debug\net6.0-windows\ref\WinFormsAppComboBox.dll

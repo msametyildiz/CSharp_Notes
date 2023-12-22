@@ -1,0 +1,91 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp3", "WinFormsApp3\WinFormsApp3.csproj", "{147F0A01-C449-48F1-A5B6-B0ED4B8E3148}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{52C8DE6B-D29B-4754-9399-DFB7591BE180}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp_MessageBox", "WinFormsApp_MEssageBox\WinFormsApp_MessageBox.csproj", "{8F6EBC24-E85B-419F-8922-60FCD1794F60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppLogin", "WinFormsAppLogin\WinFormsAppLogin.csproj", "{DA3630BA-9813-404E-A490-F4312B2DFD57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppCheckBox", "WinFormsAppCheckBox\WinFormsAppCheckBox.csproj", "{F391129F-4AE6-4734-B945-B0C324CEB86A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppRadioButton", "WinFormsAppRadioButton\WinFormsAppRadioButton.csproj", "{DB61DFFB-B253-4876-8FED-092E83EB04BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppDataValidation", "WinFormsAppDataValidation\WinFormsAppDataValidation.csproj", "{713148A2-39E9-47D6-A444-AE1ECE4B99BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppNumericUPDown", "WinFormsAppNumericUPDown\WinFormsAppNumericUPDown.csproj", "{ED5C74C7-52FA-4D6A-AAE7-87B3F0261942}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppListBox", "WinFormsAppListBox\WinFormsAppListBox.csproj", "{F8D2D295-1928-4BCE-BA4C-2F746BEF6825}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppWorks", "WinFormsAppWorks\WinFormsAppWorks.csproj", "{AFF92C12-6595-4E39-B5A4-A79D75B3E986}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppComboBox", "WinFormsAppComboBox\WinFormsAppComboBox.csproj", "{D19C3B27-5AE3-43F5-8A34-3699357EC0A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginExample", "repeatForm\LoginExample.csproj", "{86B96D18-290E-4547-AA27-D312A49C0D2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147F0A01-C449-48F1-A5B6-B0ED4B8E3148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147F0A01-C449-48F1-A5B6-B0ED4B8E3148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147F0A01-C449-48F1-A5B6-B0ED4B8E3148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147F0A01-C449-48F1-A5B6-B0ED4B8E3148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C8DE6B-D29B-4754-9399-DFB7591BE180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C8DE6B-D29B-4754-9399-DFB7591BE180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C8DE6B-D29B-4754-9399-DFB7591BE180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C8DE6B-D29B-4754-9399-DFB7591BE180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F6EBC24-E85B-419F-8922-60FCD1794F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6EBC24-E85B-419F-8922-60FCD1794F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6EBC24-E85B-419F-8922-60FCD1794F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6EBC24-E85B-419F-8922-60FCD1794F60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3630BA-9813-404E-A490-F4312B2DFD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3630BA-9813-404E-A490-F4312B2DFD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3630BA-9813-404E-A490-F4312B2DFD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3630BA-9813-404E-A490-F4312B2DFD57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F391129F-4AE6-4734-B945-B0C324CEB86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F391129F-4AE6-4734-B945-B0C324CEB86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F391129F-4AE6-4734-B945-B0C324CEB86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F391129F-4AE6-4734-B945-B0C324CEB86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB61DFFB-B253-4876-8FED-092E83EB04BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB61DFFB-B253-4876-8FED-092E83EB04BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB61DFFB-B253-4876-8FED-092E83EB04BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB61DFFB-B253-4876-8FED-092E83EB04BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{713148A2-39E9-47D6-A444-AE1ECE4B99BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{713148A2-39E9-47D6-A444-AE1ECE4B99BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{713148A2-39E9-47D6-A444-AE1ECE4B99BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{713148A2-39E9-47D6-A444-AE1ECE4B99BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5C74C7-52FA-4D6A-AAE7-87B3F0261942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5C74C7-52FA-4D6A-AAE7-87B3F0261942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5C74C7-52FA-4D6A-AAE7-87B3F0261942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5C74C7-52FA-4D6A-AAE7-87B3F0261942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D2D295-1928-4BCE-BA4C-2F746BEF6825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D2D295-1928-4BCE-BA4C-2F746BEF6825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D2D295-1928-4BCE-BA4C-2F746BEF6825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D2D295-1928-4BCE-BA4C-2F746BEF6825}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF92C12-6595-4E39-B5A4-A79D75B3E986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF92C12-6595-4E39-B5A4-A79D75B3E986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF92C12-6595-4E39-B5A4-A79D75B3E986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF92C12-6595-4E39-B5A4-A79D75B3E986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19C3B27-5AE3-43F5-8A34-3699357EC0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D19C3B27-5AE3-43F5-8A34-3699357EC0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D19C3B27-5AE3-43F5-8A34-3699357EC0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D19C3B27-5AE3-43F5-8A34-3699357EC0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B96D18-290E-4547-AA27-D312A49C0D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B96D18-290E-4547-AA27-D312A49C0D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B96D18-290E-4547-AA27-D312A49C0D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B96D18-290E-4547-AA27-D312A49C0D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B77DCAC-C4B0-44C6-B8BE-7CCBF611477E}
+	EndGlobalSection
+EndGlobal

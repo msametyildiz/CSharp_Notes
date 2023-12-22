@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\bin\Debug\net6.0-windows\WinFormsApp_MEssageBox.exe
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\bin\Debug\net6.0-windows\WinFormsApp_MEssageBox.deps.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\bin\Debug\net6.0-windows\WinFormsApp_MEssageBox.runtimeconfig.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\bin\Debug\net6.0-windows\WinFormsApp_MEssageBox.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\bin\Debug\net6.0-windows\WinFormsApp_MEssageBox.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\obj\Debug\net6.0-windows\WinFormsApp_MEssageBox.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\obj\Debug\net6.0-windows\WinFormsApp_MEssageBox.Form1.resources
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\obj\Debug\net6.0-windows\WinFormsApp_MEssageBox.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\obj\Debug\net6.0-windows\WinFormsApp_MEssageBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\obj\Debug\net6.0-windows\WinFormsApp_MEssageBox.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\obj\Debug\net6.0-windows\WinFormsApp_MEssageBox.AssemblyInfo.cs
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\obj\Debug\net6.0-windows\WinFormsApp_MEssageBox.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\obj\Debug\net6.0-windows\WinFormsApp_MEssageBox.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\obj\Debug\net6.0-windows\refint\WinFormsApp_MEssageBox.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\obj\Debug\net6.0-windows\WinFormsApp_MEssageBox.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\obj\Debug\net6.0-windows\WinFormsApp_MEssageBox.genruntimeconfig.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsApp_MEssageBox\obj\Debug\net6.0-windows\ref\WinFormsApp_MEssageBox.dll

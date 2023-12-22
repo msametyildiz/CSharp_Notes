@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\obj\Debug\net6.0-windows\WinFormsAppLogin.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\obj\Debug\net6.0-windows\WinFormsAppLogin.Form1.resources
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\obj\Debug\net6.0-windows\WinFormsAppLogin.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\obj\Debug\net6.0-windows\WinFormsAppLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\obj\Debug\net6.0-windows\WinFormsAppLogin.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\obj\Debug\net6.0-windows\WinFormsAppLogin.AssemblyInfo.cs
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\obj\Debug\net6.0-windows\WinFormsAppLogin.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\bin\Debug\net6.0-windows\WinFormsAppLogin.exe
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\bin\Debug\net6.0-windows\WinFormsAppLogin.deps.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\bin\Debug\net6.0-windows\WinFormsAppLogin.runtimeconfig.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\bin\Debug\net6.0-windows\WinFormsAppLogin.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\bin\Debug\net6.0-windows\WinFormsAppLogin.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\obj\Debug\net6.0-windows\WinFormsAppLogin.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\obj\Debug\net6.0-windows\refint\WinFormsAppLogin.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\obj\Debug\net6.0-windows\WinFormsAppLogin.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\obj\Debug\net6.0-windows\WinFormsAppLogin.genruntimeconfig.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppLogin\obj\Debug\net6.0-windows\ref\WinFormsAppLogin.dll

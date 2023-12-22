@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\bin\Debug\net6.0-windows\LoginExample.exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\bin\Debug\net6.0-windows\LoginExample.deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\bin\Debug\net6.0-windows\LoginExample.runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\bin\Debug\net6.0-windows\LoginExample.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\bin\Debug\net6.0-windows\LoginExample.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\LoginExample.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\repeatForm.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\LoginExample.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\LoginExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\LoginExample.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\LoginExample.AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\LoginExample.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\LoginExample.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\refint\LoginExample.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\LoginExample.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\LoginExample.genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\repeatForm\obj\Debug\net6.0-windows\ref\LoginExample.dll

@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\bin\Debug\net6.0-windows\WinFormsAppWorks.exe
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\bin\Debug\net6.0-windows\WinFormsAppWorks.deps.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\bin\Debug\net6.0-windows\WinFormsAppWorks.runtimeconfig.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\bin\Debug\net6.0-windows\WinFormsAppWorks.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\bin\Debug\net6.0-windows\WinFormsAppWorks.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\obj\Debug\net6.0-windows\WinFormsAppWorks.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\obj\Debug\net6.0-windows\WinFormsAppWorks.Form1.resources
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\obj\Debug\net6.0-windows\WinFormsAppWorks.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\obj\Debug\net6.0-windows\WinFormsAppWorks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\obj\Debug\net6.0-windows\WinFormsAppWorks.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\obj\Debug\net6.0-windows\WinFormsAppWorks.AssemblyInfo.cs
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\obj\Debug\net6.0-windows\WinFormsAppWorks.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\obj\Debug\net6.0-windows\WinFormsAppWorks.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\obj\Debug\net6.0-windows\refint\WinFormsAppWorks.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\obj\Debug\net6.0-windows\WinFormsAppWorks.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\obj\Debug\net6.0-windows\WinFormsAppWorks.genruntimeconfig.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppWorks\obj\Debug\net6.0-windows\ref\WinFormsAppWorks.dll

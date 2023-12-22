@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\bin\Debug\net6.0-windows\WinFormsAppRadioButton.exe
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\bin\Debug\net6.0-windows\WinFormsAppRadioButton.deps.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\bin\Debug\net6.0-windows\WinFormsAppRadioButton.runtimeconfig.json
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\bin\Debug\net6.0-windows\WinFormsAppRadioButton.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\bin\Debug\net6.0-windows\WinFormsAppRadioButton.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\obj\Debug\net6.0-windows\WinFormsAppRadioButton.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\obj\Debug\net6.0-windows\WinFormsAppRadioButton.Form1.resources
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\obj\Debug\net6.0-windows\WinFormsAppRadioButton.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\obj\Debug\net6.0-windows\WinFormsAppRadioButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\obj\Debug\net6.0-windows\WinFormsAppRadioButton.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\obj\Debug\net6.0-windows\WinFormsAppRadioButton.AssemblyInfo.cs
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\obj\Debug\net6.0-windows\WinFormsAppRadioButton.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\obj\Debug\net6.0-windows\WinFormsAppRadioButton.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\obj\Debug\net6.0-windows\refint\WinFormsAppRadioButton.dll
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\obj\Debug\net6.0-windows\WinFormsAppRadioButton.pdb
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\obj\Debug\net6.0-windows\WinFormsAppRadioButton.genruntimeconfig.cache
+C:\Users\samet\Desktop\visual programming\WinFormsApp3\WinFormsAppRadioButton\obj\Debug\net6.0-windows\ref\WinFormsAppRadioButton.dll
