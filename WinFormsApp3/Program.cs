@@ -12,6 +12,10 @@ namespace WinFormsApp3
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+<<<<<<< HEAD
+=======
+
+>>>>>>> 7914b20b31af8036ced509561c0ee7d84a48a0bc
         }
     }
 }
