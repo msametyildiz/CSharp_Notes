@@ -172,10 +172,8 @@ namespace WinFormsAppListBox
                                 alreadyExists = true;
                                 break;
                             }
-                            
+
                         }
-
-
                         if (!alreadyExists)
                         {
                             listBox4.Items.Add(iller.SelectedItems[j]);
