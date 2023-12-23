@@ -85,6 +85,7 @@ namespace WinFormsAppListBox
         {
             listBox2.SelectedItem = "Samet";
             listBox1.SelectedItem = "Ankara"; // baþlangýçta seçili gelir
+            iller.SelectedItem = "Ankara";
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -107,7 +108,7 @@ namespace WinFormsAppListBox
 
         private void button3_Click(object sender, EventArgs e)
         {
-           string[] list =new string[] {"Ankara","Aydýn","Karabük","Sivas"};
+            string[] list = new string[] { "Ankara", "Aydýn", "Karabük", "Sivas" };
             ArrayList arr = new ArrayList();
             arr.Add("Ankara");
             arr.Add("Aydýn");
@@ -115,6 +116,104 @@ namespace WinFormsAppListBox
             arr.Add("Sivas");
             listBox3.Items.AddRange(arr.ToArray());
 
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            iller.Items.Add("Konya");
+            iller.Items.Insert(0, "Afyon");
+            object[] obj = new object[] { "Su", "Hava", "Ateþ", "Toprak" };
+            ArrayList list = new ArrayList();
+            iller.Items.AddRange(obj);
+            MessageBox.Show(iller.Items.Count.ToString());
+        }
+
+        private void iller_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void iller_DoubleClick(object sender, EventArgs e)
+        {
+            if (iller.SelectedItem != null)
+            {
+                MessageBox.Show(iller.SelectedItem.ToString());
+            }
+            MessageBox.Show((iller.SelectedIndex + 1).ToString());
+        }
+
+        private void searchButton_Click(object sender, EventArgs e)
+        {
+
+
+            for (int i = 0; i < iller.Items.Count; i++)
+            {
+                if (iller.Items[i].ToString() == "Adýyaman")
+                {
+                    MessageBox.Show((i + 1).ToString() + ". index : Adýyaman");
+                }
+            }
+        }
+
+        private void buttonAktar_Click(object sender, EventArgs e)
+        {
+            if (iller.SelectedItems.Count > 0)
+            {
+                if (listBox4.Items.Count > 0)
+                {
+                    for (int j = 0; j < iller.SelectedItems.Count; j++)
+                    {
+                        bool alreadyExists = false;
+                        for (int i = 0; i < listBox4.Items.Count; i++)
+                        {
+                            if (listBox4.Items[i].ToString() == iller.SelectedItems[j].ToString())
+                            {
+                                alreadyExists = true;
+                                break;
+                            }
+                            
+                        }
+
+
+                        if (!alreadyExists)
+                        {
+                            listBox4.Items.Add(iller.SelectedItems[j]);
+                        }
+                    }
+                    for (int i = 0; i < listBox4.Items.Count; i++)
+                    {
+                        bool alreadyExists = true;
+                        for (int j = 0; j < iller.SelectedItems.Count; j++)
+                        {
+                            if (listBox4.Items[i].ToString() == iller.SelectedItems[j].ToString())
+                            {
+                                alreadyExists = false;
+                                break;
+                            }
+
+                        }
+
+                        if (alreadyExists)
+                        {
+                            listBox4.Items.RemoveAt(i);
+                        }
+                    }
+
+                }
+                else
+                {
+                    foreach (var selectedItem in iller.SelectedItems)
+                    {
+                        listBox4.Items.Add(selectedItem); // Seçili öðeleri listBox4'e ekle
+                    }
+                }
+            }
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
 
         }
     }
