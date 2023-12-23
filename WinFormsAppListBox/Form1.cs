@@ -212,7 +212,55 @@ namespace WinFormsAppListBox
 
         private void label1_Click(object sender, EventArgs e)
         {
+            if (iller.SelectedItems.Count > 0)
+            {
+                if (listBox4.Items.Count > 0)
+                {
+                    for (int j = 0; j < iller.SelectedItems.Count; j++)
+                    {
+                        bool alreadyExists = false;
+                        for (int i = 0; i < listBox4.Items.Count; i++)
+                        {
+                            if (listBox4.Items[i].ToString() == iller.SelectedItems[j].ToString())
+                            {
+                                alreadyExists = true;
+                                break;
+                            }
 
+                        }
+                        if (!alreadyExists)
+                        {
+                            listBox4.Items.Add(iller.SelectedItems[j]);
+                        }
+                    }
+                    for (int i = 0; i < listBox4.Items.Count; i++)
+                    {
+                        bool alreadyExists = true;
+                        for (int j = 0; j < iller.SelectedItems.Count; j++)
+                        {
+                            if (listBox4.Items[i].ToString() == iller.SelectedItems[j].ToString())
+                            {
+                                alreadyExists = false;
+                                break;
+                            }
+
+                        }
+
+                        if (alreadyExists)
+                        {
+                            listBox4.Items.RemoveAt(i);
+                        }
+                    }
+
+                }
+                else
+                {
+                    foreach (var selectedItem in iller.SelectedItems)
+                    {
+                        listBox4.Items.Add(selectedItem); // Seçili öðeleri listBox4'e ekle
+                    }
+                }
+            }
         }
     }
 }
