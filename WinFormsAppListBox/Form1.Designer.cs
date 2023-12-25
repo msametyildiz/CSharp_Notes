@@ -40,6 +40,11 @@
             listBox4 = new ListBox();
             buttonAktar = new Button();
             label1 = new Label();
+            listBox5 = new ListBox();
+            AktarButton = new Button();
+            listBox6 = new ListBox();
+            button5 = new Button();
+            button6 = new Button();
             SuspendLayout();
             // 
             // listBox1
@@ -69,16 +74,16 @@
             listBox2.FormattingEnabled = true;
             listBox2.ItemHeight = 20;
             listBox2.Items.AddRange(new object[] { "Samet", "Ahmet", "Veli", "Ayşe", "Nur", "Sude", "Orhan" });
-            listBox2.Location = new Point(232, 25);
+            listBox2.Location = new Point(22, 350);
             listBox2.Name = "listBox2";
             listBox2.Size = new Size(119, 124);
             listBox2.TabIndex = 2;
             // 
             // button2
             // 
-            button2.Location = new Point(232, 155);
+            button2.Location = new Point(147, 386);
             button2.Name = "button2";
-            button2.Size = new Size(94, 29);
+            button2.Size = new Size(79, 29);
             button2.TabIndex = 3;
             button2.Text = "button2";
             button2.UseVisualStyleBackColor = true;
@@ -88,16 +93,16 @@
             // 
             listBox3.FormattingEnabled = true;
             listBox3.ItemHeight = 20;
-            listBox3.Location = new Point(232, 203);
+            listBox3.Location = new Point(22, 503);
             listBox3.Name = "listBox3";
             listBox3.Size = new Size(119, 104);
             listBox3.TabIndex = 4;
             // 
             // button3
             // 
-            button3.Location = new Point(232, 316);
+            button3.Location = new Point(147, 537);
             button3.Name = "button3";
-            button3.Size = new Size(94, 29);
+            button3.Size = new Size(79, 29);
             button3.TabIndex = 5;
             button3.Text = "button3";
             button3.UseVisualStyleBackColor = true;
@@ -108,7 +113,7 @@
             iller.FormattingEnabled = true;
             iller.ItemHeight = 20;
             iller.Items.AddRange(new object[] { "Ankara", "Adana", "Mersin", "Adıyaman", "Sinop", "Düzce", "Bolu", "Karabük", "Adıyaman" });
-            iller.Location = new Point(389, 25);
+            iller.Location = new Point(252, 25);
             iller.Name = "iller";
             iller.SelectionMode = SelectionMode.MultiExtended;
             iller.Size = new Size(142, 264);
@@ -118,7 +123,7 @@
             // 
             // button4
             // 
-            button4.Location = new Point(457, 304);
+            button4.Location = new Point(321, 295);
             button4.Name = "button4";
             button4.Size = new Size(74, 29);
             button4.TabIndex = 7;
@@ -128,7 +133,7 @@
             // 
             // searchButton
             // 
-            searchButton.Location = new Point(389, 304);
+            searchButton.Location = new Point(253, 295);
             searchButton.Name = "searchButton";
             searchButton.Size = new Size(62, 29);
             searchButton.TabIndex = 8;
@@ -140,14 +145,14 @@
             // 
             listBox4.FormattingEnabled = true;
             listBox4.ItemHeight = 20;
-            listBox4.Location = new Point(544, 25);
+            listBox4.Location = new Point(412, 25);
             listBox4.Name = "listBox4";
             listBox4.Size = new Size(132, 264);
             listBox4.TabIndex = 9;
             // 
             // buttonAktar
             // 
-            buttonAktar.Location = new Point(559, 304);
+            buttonAktar.Location = new Point(423, 295);
             buttonAktar.Name = "buttonAktar";
             buttonAktar.Size = new Size(94, 29);
             buttonAktar.TabIndex = 10;
@@ -158,18 +163,72 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(424, 350);
+            label1.Location = new Point(288, 341);
             label1.Name = "label1";
             label1.Size = new Size(241, 20);
             label1.TabIndex = 11;
             label1.Text = "soldaki listeden sağdakine aktarma";
             label1.Click += label1_Click;
             // 
+            // listBox5
+            // 
+            listBox5.FormattingEnabled = true;
+            listBox5.ItemHeight = 20;
+            listBox5.Items.AddRange(new object[] { "ali", "veli", "zeynep", "sude", "ece", "kaan", "berk", "nisa" });
+            listBox5.Location = new Point(566, 25);
+            listBox5.Name = "listBox5";
+            listBox5.Size = new Size(117, 264);
+            listBox5.TabIndex = 12;
+            // 
+            // AktarButton
+            // 
+            AktarButton.Location = new Point(566, 305);
+            AktarButton.Name = "AktarButton";
+            AktarButton.Size = new Size(117, 29);
+            AktarButton.TabIndex = 13;
+            AktarButton.Text = "Diziye Aktar";
+            AktarButton.UseVisualStyleBackColor = true;
+            AktarButton.Click += AktarButton_Click;
+            // 
+            // listBox6
+            // 
+            listBox6.FormattingEnabled = true;
+            listBox6.ItemHeight = 20;
+            listBox6.Location = new Point(708, 25);
+            listBox6.Name = "listBox6";
+            listBox6.Size = new Size(117, 264);
+            listBox6.TabIndex = 12;
+            // 
+            // button5
+            // 
+            button5.Location = new Point(713, 305);
+            button5.Name = "button5";
+            button5.Size = new Size(112, 29);
+            button5.TabIndex = 14;
+            button5.Text = "Diziden Aktar";
+            button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
+            // 
+            // button6
+            // 
+            button6.Location = new Point(713, 350);
+            button6.Name = "button6";
+            button6.Size = new Size(112, 29);
+            button6.TabIndex = 15;
+            button6.Text = "Generic List";
+            button6.UseVisualStyleBackColor = true;
+            button6.Click += button6_Click;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(688, 393);
+            ClientSize = new Size(943, 638);
+            Controls.Add(button6);
+            Controls.Add(button5);
+            Controls.Add(AktarButton);
+            Controls.Add(listBox6);
+            Controls.Add(listBox5);
             Controls.Add(label1);
             Controls.Add(buttonAktar);
             Controls.Add(listBox4);
@@ -205,5 +264,10 @@
         private ListBox listBox4;
         private Button buttonAktar;
         private Label label1;
+        private ListBox listBox5;
+        private Button AktarButton;
+        private ListBox listBox6;
+        private Button button5;
+        private Button button6;
     }
 }

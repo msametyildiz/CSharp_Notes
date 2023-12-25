@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\bin\Debug\net6.0-windows\testExample.exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\bin\Debug\net6.0-windows\testExample.deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\bin\Debug\net6.0-windows\testExample.runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\bin\Debug\net6.0-windows\testExample.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\bin\Debug\net6.0-windows\testExample.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\obj\Debug\net6.0-windows\testExample.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\obj\Debug\net6.0-windows\testExample.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\obj\Debug\net6.0-windows\testExample.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\obj\Debug\net6.0-windows\testExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\obj\Debug\net6.0-windows\testExample.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\obj\Debug\net6.0-windows\testExample.AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\obj\Debug\net6.0-windows\testExample.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\obj\Debug\net6.0-windows\testExample.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\obj\Debug\net6.0-windows\refint\testExample.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\obj\Debug\net6.0-windows\testExample.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\obj\Debug\net6.0-windows\testExample.genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\testExample\obj\Debug\net6.0-windows\ref\testExample.dll

@@ -262,5 +262,36 @@ namespace WinFormsAppListBox
                 }
             }
         }
+
+        private void AktarButton_Click(object sender, EventArgs e)
+        {
+            string[] dizi = new string[10];
+            string mesaj = "";
+            for (int i = 0; i < listBox5.Items.Count; i++)
+            {
+                dizi[i] = listBox5.Items[i].ToString();
+            }
+            foreach (var s in dizi)
+            {
+                mesaj += "\n" + s;
+            }
+            MessageBox.Show(mesaj);
+
+
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            ArrayList list = new ArrayList() { "sude", "ece", "ada", "su", "ali", "veli" };
+            listBox6.Items.AddRange(list.ToArray());
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            // generic list dinamik dizilerdir , her türden tip tanýý yapabilir. 
+            List<string> aryGeneric = new List<string>() {"sude eda","ali","veli"};
+            listBox6.Items.AddRange(aryGeneric.ToArray());
+        }
     }
 }

@@ -25,7 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppWorks", "WinForm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppComboBox", "WinFormsAppComboBox\WinFormsAppComboBox.csproj", "{D19C3B27-5AE3-43F5-8A34-3699357EC0A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginExample", "repeatForm\LoginExample.csproj", "{86B96D18-290E-4547-AA27-D312A49C0D2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoginExample", "repeatForm\LoginExample.csproj", "{86B96D18-290E-4547-AA27-D312A49C0D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testExample", "testExample\testExample.csproj", "{9333D75B-1E58-4C73-9E59-33DCED513BAA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{86B96D18-290E-4547-AA27-D312A49C0D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86B96D18-290E-4547-AA27-D312A49C0D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86B96D18-290E-4547-AA27-D312A49C0D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9333D75B-1E58-4C73-9E59-33DCED513BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9333D75B-1E58-4C73-9E59-33DCED513BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9333D75B-1E58-4C73-9E59-33DCED513BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9333D75B-1E58-4C73-9E59-33DCED513BAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
