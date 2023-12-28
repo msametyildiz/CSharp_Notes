@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\bin\Debug\net6.0-windows\WinFormsAppComboBox2.exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\bin\Debug\net6.0-windows\WinFormsAppComboBox2.deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\bin\Debug\net6.0-windows\WinFormsAppComboBox2.runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\bin\Debug\net6.0-windows\WinFormsAppComboBox2.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\bin\Debug\net6.0-windows\WinFormsAppComboBox2.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\obj\Debug\net6.0-windows\WinFormsAppComboBox2.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\obj\Debug\net6.0-windows\WinFormsAppComboBox2.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\obj\Debug\net6.0-windows\WinFormsAppComboBox2.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\obj\Debug\net6.0-windows\WinFormsAppComboBox2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\obj\Debug\net6.0-windows\WinFormsAppComboBox2.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\obj\Debug\net6.0-windows\WinFormsAppComboBox2.AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\obj\Debug\net6.0-windows\WinFormsAppComboBox2.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\obj\Debug\net6.0-windows\WinFormsAppComboBox2.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\obj\Debug\net6.0-windows\refint\WinFormsAppComboBox2.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\obj\Debug\net6.0-windows\WinFormsAppComboBox2.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\obj\Debug\net6.0-windows\WinFormsAppComboBox2.genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppComboBox2\obj\Debug\net6.0-windows\ref\WinFormsAppComboBox2.dll

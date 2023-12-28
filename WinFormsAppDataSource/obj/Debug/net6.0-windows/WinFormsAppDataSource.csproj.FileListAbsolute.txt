@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\bin\Debug\net6.0-windows\WinFormsAppDataSource.exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\bin\Debug\net6.0-windows\WinFormsAppDataSource.deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\bin\Debug\net6.0-windows\WinFormsAppDataSource.runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\bin\Debug\net6.0-windows\WinFormsAppDataSource.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\bin\Debug\net6.0-windows\WinFormsAppDataSource.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\obj\Debug\net6.0-windows\WinFormsAppDataSource.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\obj\Debug\net6.0-windows\WinFormsAppDataSource.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\obj\Debug\net6.0-windows\WinFormsAppDataSource.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\obj\Debug\net6.0-windows\WinFormsAppDataSource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\obj\Debug\net6.0-windows\WinFormsAppDataSource.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\obj\Debug\net6.0-windows\WinFormsAppDataSource.AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\obj\Debug\net6.0-windows\WinFormsAppDataSource.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\obj\Debug\net6.0-windows\WinFormsAppDataSource.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\obj\Debug\net6.0-windows\refint\WinFormsAppDataSource.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\obj\Debug\net6.0-windows\WinFormsAppDataSource.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\obj\Debug\net6.0-windows\WinFormsAppDataSource.genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDataSource\obj\Debug\net6.0-windows\ref\WinFormsAppDataSource.dll
