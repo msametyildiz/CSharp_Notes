@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\bin\Debug\net6.0-windows\WinFormsAppNotifyIcon.exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\bin\Debug\net6.0-windows\WinFormsAppNotifyIcon.deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\bin\Debug\net6.0-windows\WinFormsAppNotifyIcon.runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\bin\Debug\net6.0-windows\WinFormsAppNotifyIcon.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\bin\Debug\net6.0-windows\WinFormsAppNotifyIcon.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\obj\Debug\net6.0-windows\WinFormsAppNotifyIcon.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\obj\Debug\net6.0-windows\WinFormsAppNotifyIcon.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\obj\Debug\net6.0-windows\WinFormsAppNotifyIcon.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\obj\Debug\net6.0-windows\WinFormsAppNotifyIcon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\obj\Debug\net6.0-windows\WinFormsAppNotifyIcon.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\obj\Debug\net6.0-windows\WinFormsAppNotifyIcon.AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\obj\Debug\net6.0-windows\WinFormsAppNotifyIcon.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\obj\Debug\net6.0-windows\WinFormsAppNotifyIcon.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\obj\Debug\net6.0-windows\refint\WinFormsAppNotifyIcon.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\obj\Debug\net6.0-windows\WinFormsAppNotifyIcon.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\obj\Debug\net6.0-windows\WinFormsAppNotifyIcon.genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppNotifyIcon\obj\Debug\net6.0-windows\ref\WinFormsAppNotifyIcon.dll

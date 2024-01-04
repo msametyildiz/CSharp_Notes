@@ -41,7 +41,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppProcessClass(sea
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppTimer", "WinFormsAppTimer\WinFormsAppTimer.csproj", "{A4B037B7-C0A3-4518-9FFA-7A36DC680FB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppTabControl", "WinFormsAppTabControl\WinFormsAppTabControl.csproj", "{5BE72978-EB1F-4FD0-9624-DF2C3CF296F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppTabControl", "WinFormsAppTabControl\WinFormsAppTabControl.csproj", "{5BE72978-EB1F-4FD0-9624-DF2C3CF296F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppNotifyIcon", "WinFormsAppNotifyIcon\WinFormsAppNotifyIcon.csproj", "{06384044-7964-47B9-B5E4-4145A9D1C471}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppDomainUpdown", "WinFormsAppDomainUpdown\WinFormsAppDomainUpdown.csproj", "{16A93F2B-9ED6-4698-A385-9B807126C6F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppTrackBar", "WinFormsAppTrackBar\WinFormsAppTrackBar.csproj", "{5069FC6D-978F-4AE9-A5B2-6E381D0417AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppMaskedTextBox", "WinFormsAppMaskedTextBox\WinFormsAppMaskedTextBox.csproj", "{95801E86-239A-42A1-B46A-D850E2BD881E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB1", "LAB1\LAB1.csproj", "{CF71C628-011E-422C-8702-ED6F0ACD0A25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +139,26 @@ Global
 		{5BE72978-EB1F-4FD0-9624-DF2C3CF296F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BE72978-EB1F-4FD0-9624-DF2C3CF296F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BE72978-EB1F-4FD0-9624-DF2C3CF296F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06384044-7964-47B9-B5E4-4145A9D1C471}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06384044-7964-47B9-B5E4-4145A9D1C471}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06384044-7964-47B9-B5E4-4145A9D1C471}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06384044-7964-47B9-B5E4-4145A9D1C471}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A93F2B-9ED6-4698-A385-9B807126C6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A93F2B-9ED6-4698-A385-9B807126C6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A93F2B-9ED6-4698-A385-9B807126C6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A93F2B-9ED6-4698-A385-9B807126C6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5069FC6D-978F-4AE9-A5B2-6E381D0417AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5069FC6D-978F-4AE9-A5B2-6E381D0417AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5069FC6D-978F-4AE9-A5B2-6E381D0417AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5069FC6D-978F-4AE9-A5B2-6E381D0417AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95801E86-239A-42A1-B46A-D850E2BD881E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95801E86-239A-42A1-B46A-D850E2BD881E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95801E86-239A-42A1-B46A-D850E2BD881E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95801E86-239A-42A1-B46A-D850E2BD881E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF71C628-011E-422C-8702-ED6F0ACD0A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF71C628-011E-422C-8702-ED6F0ACD0A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF71C628-011E-422C-8702-ED6F0ACD0A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF71C628-011E-422C-8702-ED6F0ACD0A25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\bin\Debug\net6.0-windows\WinFormsAppDomainUpdown.exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\bin\Debug\net6.0-windows\WinFormsAppDomainUpdown.deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\bin\Debug\net6.0-windows\WinFormsAppDomainUpdown.runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\bin\Debug\net6.0-windows\WinFormsAppDomainUpdown.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\bin\Debug\net6.0-windows\WinFormsAppDomainUpdown.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\obj\Debug\net6.0-windows\WinFormsAppDomainUpdown.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\obj\Debug\net6.0-windows\WinFormsAppDomainUpdown.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\obj\Debug\net6.0-windows\WinFormsAppDomainUpdown.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\obj\Debug\net6.0-windows\WinFormsAppDomainUpdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\obj\Debug\net6.0-windows\WinFormsAppDomainUpdown.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\obj\Debug\net6.0-windows\WinFormsAppDomainUpdown.AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\obj\Debug\net6.0-windows\WinFormsAppDomainUpdown.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\obj\Debug\net6.0-windows\WinFormsAppDomainUpdown.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\obj\Debug\net6.0-windows\refint\WinFormsAppDomainUpdown.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\obj\Debug\net6.0-windows\WinFormsAppDomainUpdown.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\obj\Debug\net6.0-windows\WinFormsAppDomainUpdown.genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppDomainUpdown\obj\Debug\net6.0-windows\ref\WinFormsAppDomainUpdown.dll

@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\bin\Debug\net6.0-windows\WinFormsAppMaskedTextBox.exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\bin\Debug\net6.0-windows\WinFormsAppMaskedTextBox.deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\bin\Debug\net6.0-windows\WinFormsAppMaskedTextBox.runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\bin\Debug\net6.0-windows\WinFormsAppMaskedTextBox.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\bin\Debug\net6.0-windows\WinFormsAppMaskedTextBox.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\obj\Debug\net6.0-windows\WinFormsAppMaskedTextBox.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\obj\Debug\net6.0-windows\WinFormsAppMaskedTextBox.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\obj\Debug\net6.0-windows\WinFormsAppMaskedTextBox.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\obj\Debug\net6.0-windows\WinFormsAppMaskedTextBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\obj\Debug\net6.0-windows\WinFormsAppMaskedTextBox.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\obj\Debug\net6.0-windows\WinFormsAppMaskedTextBox.AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\obj\Debug\net6.0-windows\WinFormsAppMaskedTextBox.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\obj\Debug\net6.0-windows\WinFormsAppMaskedTextBox.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\obj\Debug\net6.0-windows\refint\WinFormsAppMaskedTextBox.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\obj\Debug\net6.0-windows\WinFormsAppMaskedTextBox.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\obj\Debug\net6.0-windows\WinFormsAppMaskedTextBox.genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppMaskedTextBox\obj\Debug\net6.0-windows\ref\WinFormsAppMaskedTextBox.dll
