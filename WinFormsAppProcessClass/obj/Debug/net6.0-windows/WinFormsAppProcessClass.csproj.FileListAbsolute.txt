@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\bin\Debug\net6.0-windows\WinFormsAppProcessClass.exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\bin\Debug\net6.0-windows\WinFormsAppProcessClass.deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\bin\Debug\net6.0-windows\WinFormsAppProcessClass.runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\bin\Debug\net6.0-windows\WinFormsAppProcessClass.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\bin\Debug\net6.0-windows\WinFormsAppProcessClass.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\obj\Debug\net6.0-windows\WinFormsAppProcessClass.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\obj\Debug\net6.0-windows\WinFormsAppProcessClass.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\obj\Debug\net6.0-windows\WinFormsAppProcessClass.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\obj\Debug\net6.0-windows\WinFormsAppProcessClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\obj\Debug\net6.0-windows\WinFormsAppProcessClass.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\obj\Debug\net6.0-windows\WinFormsAppProcessClass.AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\obj\Debug\net6.0-windows\WinFormsAppProcessClass.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\obj\Debug\net6.0-windows\WinFormsAppProcessClass.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\obj\Debug\net6.0-windows\refint\WinFormsAppProcessClass.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\obj\Debug\net6.0-windows\WinFormsAppProcessClass.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\obj\Debug\net6.0-windows\WinFormsAppProcessClass.genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppProcessClass\obj\Debug\net6.0-windows\ref\WinFormsAppProcessClass.dll

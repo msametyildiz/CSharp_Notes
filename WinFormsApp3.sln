@@ -33,9 +33,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppDataSource", "Wi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppComboBox2", "WinFormsAppComboBox2\WinFormsAppComboBox2.csproj", "{09000FB6-3394-4331-80D0-6AA5A0AEC243}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppTest", "WinFormsAppTest\WinFormsAppTest.csproj", "{F18EECCA-10AA-4689-BA3D-5E60759DC684}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppTest", "WinFormsAppTest\WinFormsAppTest.csproj", "{F18EECCA-10AA-4689-BA3D-5E60759DC684}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HorseRacingGame", "HorseRacingGame\HorseRacingGame.csproj", "{8D59B93A-0384-4B84-85F6-BC26A169BF33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HorseRacingGame", "HorseRacingGame\HorseRacingGame.csproj", "{8D59B93A-0384-4B84-85F6-BC26A169BF33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppProcessClass(search)", "WinFormsAppProcessClass\WinFormsAppProcessClass(search).csproj", "{DA2A20B4-05FF-49C6-B7A5-DBC254D6A218}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppTimer", "WinFormsAppTimer\WinFormsAppTimer.csproj", "{A4B037B7-C0A3-4518-9FFA-7A36DC680FB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppTabControl", "WinFormsAppTabControl\WinFormsAppTabControl.csproj", "{5BE72978-EB1F-4FD0-9624-DF2C3CF296F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +117,18 @@ Global
 		{8D59B93A-0384-4B84-85F6-BC26A169BF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D59B93A-0384-4B84-85F6-BC26A169BF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D59B93A-0384-4B84-85F6-BC26A169BF33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA2A20B4-05FF-49C6-B7A5-DBC254D6A218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2A20B4-05FF-49C6-B7A5-DBC254D6A218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2A20B4-05FF-49C6-B7A5-DBC254D6A218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2A20B4-05FF-49C6-B7A5-DBC254D6A218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4B037B7-C0A3-4518-9FFA-7A36DC680FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B037B7-C0A3-4518-9FFA-7A36DC680FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B037B7-C0A3-4518-9FFA-7A36DC680FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B037B7-C0A3-4518-9FFA-7A36DC680FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE72978-EB1F-4FD0-9624-DF2C3CF296F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE72978-EB1F-4FD0-9624-DF2C3CF296F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE72978-EB1F-4FD0-9624-DF2C3CF296F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE72978-EB1F-4FD0-9624-DF2C3CF296F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

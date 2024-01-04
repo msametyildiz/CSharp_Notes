@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\bin\Debug\net6.0-windows\WinFormsAppTabControl.exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\bin\Debug\net6.0-windows\WinFormsAppTabControl.deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\bin\Debug\net6.0-windows\WinFormsAppTabControl.runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\bin\Debug\net6.0-windows\WinFormsAppTabControl.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\bin\Debug\net6.0-windows\WinFormsAppTabControl.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\obj\Debug\net6.0-windows\WinFormsAppTabControl.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\obj\Debug\net6.0-windows\WinFormsAppTabControl.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\obj\Debug\net6.0-windows\WinFormsAppTabControl.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\obj\Debug\net6.0-windows\WinFormsAppTabControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\obj\Debug\net6.0-windows\WinFormsAppTabControl.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\obj\Debug\net6.0-windows\WinFormsAppTabControl.AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\obj\Debug\net6.0-windows\WinFormsAppTabControl.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\obj\Debug\net6.0-windows\WinFormsAppTabControl.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\obj\Debug\net6.0-windows\refint\WinFormsAppTabControl.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\obj\Debug\net6.0-windows\WinFormsAppTabControl.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\obj\Debug\net6.0-windows\WinFormsAppTabControl.genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTabControl\obj\Debug\net6.0-windows\ref\WinFormsAppTabControl.dll

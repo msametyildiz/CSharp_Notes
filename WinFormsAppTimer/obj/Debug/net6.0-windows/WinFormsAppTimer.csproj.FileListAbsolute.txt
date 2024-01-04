@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\bin\Debug\net6.0-windows\WinFormsAppTimer.exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\bin\Debug\net6.0-windows\WinFormsAppTimer.deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\bin\Debug\net6.0-windows\WinFormsAppTimer.runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\bin\Debug\net6.0-windows\WinFormsAppTimer.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\bin\Debug\net6.0-windows\WinFormsAppTimer.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\obj\Debug\net6.0-windows\WinFormsAppTimer.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\obj\Debug\net6.0-windows\WinFormsAppTimer.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\obj\Debug\net6.0-windows\WinFormsAppTimer.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\obj\Debug\net6.0-windows\WinFormsAppTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\obj\Debug\net6.0-windows\WinFormsAppTimer.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\obj\Debug\net6.0-windows\WinFormsAppTimer.AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\obj\Debug\net6.0-windows\WinFormsAppTimer.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\obj\Debug\net6.0-windows\WinFormsAppTimer.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\obj\Debug\net6.0-windows\refint\WinFormsAppTimer.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\obj\Debug\net6.0-windows\WinFormsAppTimer.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\obj\Debug\net6.0-windows\WinFormsAppTimer.genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTimer\obj\Debug\net6.0-windows\ref\WinFormsAppTimer.dll
