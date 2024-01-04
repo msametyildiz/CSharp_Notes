@@ -51,7 +51,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppTrackBar", "WinF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppMaskedTextBox", "WinFormsAppMaskedTextBox\WinFormsAppMaskedTextBox.csproj", "{95801E86-239A-42A1-B46A-D850E2BD881E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB1", "LAB1\LAB1.csproj", "{CF71C628-011E-422C-8702-ED6F0ACD0A25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB1 (button catch game)", "LAB1\LAB1 (button catch game).csproj", "{CF71C628-011E-422C-8702-ED6F0ACD0A25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
