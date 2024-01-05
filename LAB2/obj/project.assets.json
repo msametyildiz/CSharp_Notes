@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samet\\Desktop\\OKUL\\visual programming\\WinFormsApp3\\LAB2\\LAB2 ( bu seat pointing ).csproj",
-      "projectName": "LAB2 ( bu seat pointing )",
-      "projectPath": "C:\\Users\\samet\\Desktop\\OKUL\\visual programming\\WinFormsApp3\\LAB2\\LAB2 ( bu seat pointing ).csproj",
+      "projectUniqueName": "C:\\Users\\samet\\Desktop\\OKUL\\visual programming\\WinFormsApp3\\LAB2\\LAB2 ( bus seat pointing ).csproj",
+      "projectName": "LAB2 ( bus seat pointing )",
+      "projectPath": "C:\\Users\\samet\\Desktop\\OKUL\\visual programming\\WinFormsApp3\\LAB2\\LAB2 ( bus seat pointing ).csproj",
       "packagesPath": "C:\\Users\\samet\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\samet\\Desktop\\OKUL\\visual programming\\WinFormsApp3\\LAB2\\obj\\",
       "projectStyle": "PackageReference",

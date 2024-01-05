@@ -57,7 +57,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppContextMenuStrip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppTreeView", "WinFormsAppTreeView\WinFormsAppTreeView.csproj", "{02CC3765-DDEF-44E9-BCFA-7AFF903FC630}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB2", "LAB2\LAB2.csproj", "{83AAE6B7-84B7-4F6D-9975-EC2ABD4DC2A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB2 ( bus seat pointing )", "LAB2\LAB2 ( bus seat pointing ).csproj", "{83AAE6B7-84B7-4F6D-9975-EC2ABD4DC2A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLite", "SQLite\SQLite.csproj", "{3B81BFF4-1DDC-407B-B6E8-D10877361A92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{83AAE6B7-84B7-4F6D-9975-EC2ABD4DC2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83AAE6B7-84B7-4F6D-9975-EC2ABD4DC2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83AAE6B7-84B7-4F6D-9975-EC2ABD4DC2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B81BFF4-1DDC-407B-B6E8-D10877361A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B81BFF4-1DDC-407B-B6E8-D10877361A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B81BFF4-1DDC-407B-B6E8-D10877361A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B81BFF4-1DDC-407B-B6E8-D10877361A92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
