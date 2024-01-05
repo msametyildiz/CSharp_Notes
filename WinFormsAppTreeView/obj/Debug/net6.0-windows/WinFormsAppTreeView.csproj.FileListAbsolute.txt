@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\bin\Debug\net6.0-windows\WinFormsAppTreeView.exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\bin\Debug\net6.0-windows\WinFormsAppTreeView.deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\bin\Debug\net6.0-windows\WinFormsAppTreeView.runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\bin\Debug\net6.0-windows\WinFormsAppTreeView.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\bin\Debug\net6.0-windows\WinFormsAppTreeView.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\obj\Debug\net6.0-windows\WinFormsAppTreeView.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\obj\Debug\net6.0-windows\WinFormsAppTreeView.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\obj\Debug\net6.0-windows\WinFormsAppTreeView.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\obj\Debug\net6.0-windows\WinFormsAppTreeView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\obj\Debug\net6.0-windows\WinFormsAppTreeView.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\obj\Debug\net6.0-windows\WinFormsAppTreeView.AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\obj\Debug\net6.0-windows\WinFormsAppTreeView.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\obj\Debug\net6.0-windows\WinFormsAppTreeView.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\obj\Debug\net6.0-windows\refint\WinFormsAppTreeView.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\obj\Debug\net6.0-windows\WinFormsAppTreeView.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\obj\Debug\net6.0-windows\WinFormsAppTreeView.genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppTreeView\obj\Debug\net6.0-windows\ref\WinFormsAppTreeView.dll

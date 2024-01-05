@@ -43,15 +43,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppTimer", "WinForm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppTabControl", "WinFormsAppTabControl\WinFormsAppTabControl.csproj", "{5BE72978-EB1F-4FD0-9624-DF2C3CF296F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppNotifyIcon", "WinFormsAppNotifyIcon\WinFormsAppNotifyIcon.csproj", "{06384044-7964-47B9-B5E4-4145A9D1C471}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppNotifyIcon", "WinFormsAppNotifyIcon\WinFormsAppNotifyIcon.csproj", "{06384044-7964-47B9-B5E4-4145A9D1C471}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppDomainUpdown", "WinFormsAppDomainUpdown\WinFormsAppDomainUpdown.csproj", "{16A93F2B-9ED6-4698-A385-9B807126C6F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppDomainUpdown", "WinFormsAppDomainUpdown\WinFormsAppDomainUpdown.csproj", "{16A93F2B-9ED6-4698-A385-9B807126C6F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppTrackBar", "WinFormsAppTrackBar\WinFormsAppTrackBar.csproj", "{5069FC6D-978F-4AE9-A5B2-6E381D0417AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppTrackBar", "WinFormsAppTrackBar\WinFormsAppTrackBar.csproj", "{5069FC6D-978F-4AE9-A5B2-6E381D0417AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppMaskedTextBox", "WinFormsAppMaskedTextBox\WinFormsAppMaskedTextBox.csproj", "{95801E86-239A-42A1-B46A-D850E2BD881E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsAppMaskedTextBox", "WinFormsAppMaskedTextBox\WinFormsAppMaskedTextBox.csproj", "{95801E86-239A-42A1-B46A-D850E2BD881E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB1 (button catch game)", "LAB1\LAB1 (button catch game).csproj", "{CF71C628-011E-422C-8702-ED6F0ACD0A25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB1 (button catch game)", "LAB1\LAB1 (button catch game).csproj", "{CF71C628-011E-422C-8702-ED6F0ACD0A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppContextMenuStrip (random color backcolor)", "WinFormsAppContextMenuStrip\WinFormsAppContextMenuStrip (random color backcolor).csproj", "{E4C1E7F9-E85C-4F06-9D4A-1B265BE8C30D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsAppTreeView", "WinFormsAppTreeView\WinFormsAppTreeView.csproj", "{02CC3765-DDEF-44E9-BCFA-7AFF903FC630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB2", "LAB2\LAB2.csproj", "{83AAE6B7-84B7-4F6D-9975-EC2ABD4DC2A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +165,18 @@ Global
 		{CF71C628-011E-422C-8702-ED6F0ACD0A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF71C628-011E-422C-8702-ED6F0ACD0A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF71C628-011E-422C-8702-ED6F0ACD0A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4C1E7F9-E85C-4F06-9D4A-1B265BE8C30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C1E7F9-E85C-4F06-9D4A-1B265BE8C30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C1E7F9-E85C-4F06-9D4A-1B265BE8C30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C1E7F9-E85C-4F06-9D4A-1B265BE8C30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02CC3765-DDEF-44E9-BCFA-7AFF903FC630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02CC3765-DDEF-44E9-BCFA-7AFF903FC630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02CC3765-DDEF-44E9-BCFA-7AFF903FC630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02CC3765-DDEF-44E9-BCFA-7AFF903FC630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83AAE6B7-84B7-4F6D-9975-EC2ABD4DC2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AAE6B7-84B7-4F6D-9975-EC2ABD4DC2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AAE6B7-84B7-4F6D-9975-EC2ABD4DC2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AAE6B7-84B7-4F6D-9975-EC2ABD4DC2A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

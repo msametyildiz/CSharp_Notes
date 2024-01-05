@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip (random color backcolor).csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip (random color backcolor).csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip (random color backcolor).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip (random color backcolor).AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip (random color backcolor).AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip (random color backcolor).csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\bin\Debug\net6.0-windows\WinFormsAppContextMenuStrip (random color backcolor).exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\bin\Debug\net6.0-windows\WinFormsAppContextMenuStrip (random color backcolor).deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\bin\Debug\net6.0-windows\WinFormsAppContextMenuStrip (random color backcolor).runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\bin\Debug\net6.0-windows\WinFormsAppContextMenuStrip (random color backcolor).dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\bin\Debug\net6.0-windows\WinFormsAppContextMenuStrip (random color backcolor).pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip (random color backcolor).dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\refint\WinFormsAppContextMenuStrip (random color backcolor).dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip (random color backcolor).pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip (random color backcolor).genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\ref\WinFormsAppContextMenuStrip (random color backcolor).dll

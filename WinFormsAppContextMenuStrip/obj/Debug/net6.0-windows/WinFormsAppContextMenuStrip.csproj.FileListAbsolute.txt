@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\bin\Debug\net6.0-windows\WinFormsAppContextMenuStrip.exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\bin\Debug\net6.0-windows\WinFormsAppContextMenuStrip.deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\bin\Debug\net6.0-windows\WinFormsAppContextMenuStrip.runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\bin\Debug\net6.0-windows\WinFormsAppContextMenuStrip.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\bin\Debug\net6.0-windows\WinFormsAppContextMenuStrip.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip.AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip.AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\refint\WinFormsAppContextMenuStrip.dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip.pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\WinFormsAppContextMenuStrip.genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\WinFormsAppContextMenuStrip\obj\Debug\net6.0-windows\ref\WinFormsAppContextMenuStrip.dll

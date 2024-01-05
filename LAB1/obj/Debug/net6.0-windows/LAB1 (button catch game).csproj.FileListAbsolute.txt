@@ -1,0 +1,17 @@
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\bin\Debug\net6.0-windows\LAB1 (button catch game).exe
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\bin\Debug\net6.0-windows\LAB1 (button catch game).deps.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\bin\Debug\net6.0-windows\LAB1 (button catch game).runtimeconfig.json
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\bin\Debug\net6.0-windows\LAB1 (button catch game).dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\bin\Debug\net6.0-windows\LAB1 (button catch game).pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\obj\Debug\net6.0-windows\LAB1 (button catch game).csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\obj\Debug\net6.0-windows\LAB1.Form1.resources
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\obj\Debug\net6.0-windows\LAB1 (button catch game).csproj.GenerateResource.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\obj\Debug\net6.0-windows\LAB1 (button catch game).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\obj\Debug\net6.0-windows\LAB1 (button catch game).AssemblyInfoInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\obj\Debug\net6.0-windows\LAB1 (button catch game).AssemblyInfo.cs
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\obj\Debug\net6.0-windows\LAB1 (button catch game).csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\obj\Debug\net6.0-windows\LAB1 (button catch game).dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\obj\Debug\net6.0-windows\refint\LAB1 (button catch game).dll
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\obj\Debug\net6.0-windows\LAB1 (button catch game).pdb
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\obj\Debug\net6.0-windows\LAB1 (button catch game).genruntimeconfig.cache
+C:\Users\samet\Desktop\OKUL\visual programming\WinFormsApp3\LAB1\obj\Debug\net6.0-windows\ref\LAB1 (button catch game).dll
